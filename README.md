@@ -58,3 +58,9 @@ https://www.kancloud.cn/sxlcjqq/interviews
 https://www.cxymsg.com/guide/
 <!-- vuedraggable -->
 https://www.npmjs.com/package/vuedraggable
+<!-- 阿西河前端教程 -->
+https://www.axihe.com/
+<!-- 关于实现element tree 操作父节点关联子节点，反之不关联的做法 -->
+https://www.jianshu.com/p/6a8b82905356
+<!-- kancloud 学习总结 -->
+https://www.kancloud.cn/book/dsh225/javascript_vue_css/dashboard
